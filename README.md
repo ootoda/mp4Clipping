@@ -19,7 +19,7 @@ windows11
 
 ## ダウンロード
 GitHubからダウンロードできます。以下のページの緑の「Code」ボタンを押してzipをダウンロードします。
-//https://github.com/ootoda/RiceWeatherjapan
+https://github.com/ootoda/mp4Clipping
 
 ## 使い方
 
