@@ -26,6 +26,8 @@ https://github.com/ootoda/mp4Clipping
 1. 依存ライブラリを入れる（ターミナルで）:
 	pip install pyqt5 opencv-python moviepy
 
+	pip install pyqt5 opencv-python
+
    ※ffmpeg も使います。システムに ffmpeg が無ければ別途インストールしてください
 
 2. スクリプトを実行:
@@ -43,3 +45,13 @@ https://github.com/ootoda/mp4Clipping
 
 ## ライセンス
 MIT License
+
+
+## 更新履歴
+
+2025/09/14 03:11
+　バグ修正　mp4Clippingv1.2.py　リリース
+
+
+
+
